@@ -1,0 +1,1 @@
+The folds are the same as here: https://github.com/GilLevi/AgeGenderDeepLearning/tree/master/Folds/train_val_txt_files_per_fold

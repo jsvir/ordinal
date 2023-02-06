@@ -1,0 +1,9 @@
+h5py==3.2.1
+torch==1.9.0
+torchvision==0.10.0a0
+pytorch-lightning==1.4.0
+torchmetrics==0.5.0
+opencv-python
+scikit-learn==0.24.2
+Pillow==8.2.0
+omegaconf

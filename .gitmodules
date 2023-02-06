@@ -1,0 +1,3 @@
+[submodule "MedMNIST"]
+	path = MedMNIST
+	url = https://github.com/MedMNIST/MedMNIST.git
